@@ -30,7 +30,7 @@ android {
       namespace 'com.ricardorb.is_firebase_test_lab_activated'
     }
 
-    compileSdkVersion 34
+    compileSdkVersion 35
 
     sourceSets {
         main.java.srcDirs += 'src/main/kotlin'
